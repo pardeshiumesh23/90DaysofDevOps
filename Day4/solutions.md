@@ -9,3 +9,10 @@ Here are a few examples of how shell scripting can be used in DevOps:
 5) Backup and Recovery: Shell scripts can be created to automate backup operations for databases, files, and system configurations. They can schedule backups,            compress data, transfer files to remote locations, and verify backup integrity.
 
    Shell scripting provides a powerful and flexible way to automate repetitive tasks and orchestrate complex workflows in the DevOps realm. By leveraging shell          scripting, DevOps engineers can save time, increase productivity, and maintain consistency in their operations.
+
+2] What is #!/bin/bash? can we write #!/bin/sh as well?
+#!/bin/bash A shebang line used in script files to set bash, present in the '/bin' directory, as the default shell for executing commands present in the file. It defines an absolute path /usr/bin/bash to the Bash shell.
+
+Yes, you can use #!/bin/sh as the shebang line in your shell script.
+The shebang line (#!/bin/sh) indicates the interpreter to be used to execute the script. In this case, it specifies that the script should be interpreted by the /bin/sh shell.
+While #!/bin/bash explicitly specifies the Bash shell as the interpreter, #!/bin/sh is more generic and typically points to the default shell interpreter on most Unix-like systems.
