@@ -32,4 +32,16 @@ Finally, run the script by executing:\
 You should see the following output:\
 ![Screenshot 2023-07-18 145850](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/85d6d162-909d-4c66-a832-b0e919c1f6bc)
 
+4. Write a Shell Script to take user input, input from arguments and print the variables.\
+Create a file named test_name.sh and write the following shell script in it.\
+![Screenshot 2023-07-18 150339](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/f1740e63-4394-4a77-93dc-1549a933bdf3)
+
+Then, Make it executable using the command : chmod +x test_name.sh\
+![Screenshot 2023-07-18 150745](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/1b4cdd5f-12fc-408b-9f58-3d718ad69b42)
+
+Finally, run the script by executing:\
+./test_name.sh
+
+You will see the following output. Enter your name and it will get print.\
+![Screenshot 2023-07-18 151036](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/aaefd7cf-8919-45be-9f0f-f69803a442d1)
 
