@@ -9,8 +9,8 @@
       history
 
 4.To remove a directory/ Folder.\
-      rm file_name \
-![Screenshot 2023-07-18 110848](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/6ffab8aa-9850-4b92-be4e-496bf0cb41ad) \
+rm file_name \
+![Screenshot 2023-07-18 110848](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/6ffab8aa-9850-4b92-be4e-496bf0cb41ad) 
 
-      rmdir folder_name \
+rmdir folder_name \
 ![Screenshot 2023-07-18 111600](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/41282307-d062-408d-99e0-cdc11244c142)
