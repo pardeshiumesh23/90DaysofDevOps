@@ -45,5 +45,5 @@ Finally, run the script by executing:\
 You will see the following output. Enter your name and it will get print.\
 ![Screenshot 2023-07-18 151036](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/aaefd7cf-8919-45be-9f0f-f69803a442d1)
 
-5.Write an Example of If else in Shell Scripting by comparing 2 numbers.
+5.Write an Example of If else in Shell Scripting by comparing 2 numbers.\
 ![Screenshot 2023-07-18 151532](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/6a7f79eb-e23c-4742-a0ac-5e0a71fd881d)
