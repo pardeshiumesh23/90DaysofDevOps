@@ -31,4 +31,3 @@ rmdir folder_name \
 10.Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey.\
 ![Screenshot 2023-07-18 115117](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/1fcaa50f-9be0-448c-8505-048a23041be4)
 
-Reference: https://pardeshiumesh.hashnode.dev/day-2-linux-fundamentals
