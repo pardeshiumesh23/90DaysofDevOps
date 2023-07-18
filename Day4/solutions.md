@@ -16,3 +16,20 @@ Here are a few examples of how shell scripting can be used in DevOps:
 Yes, you can use #!/bin/sh as the shebang line in your shell script.
 The shebang line (#!/bin/sh) indicates the interpreter to be used to execute the script. In this case, it specifies that the script should be interpreted by the /bin/sh shell.
 While #!/bin/bash explicitly specifies the Bash shell as the interpreter, #!/bin/sh is more generic and typically points to the default shell interpreter on most Unix-like systems.
+
+3.Write a Shell Script which prints I will complete #90DaysOofDevOps challenge
+Create a file with .sh extention ex. devops_challenge.sh and write #!bin/bash in it.
+![Screenshot 2023-07-18 145443](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/57174b5e-6fa2-4f55-b3cd-798cbddaad64)
+
+Then, make the file executable using the following command:
+chmod +x devops_challenge.sh
+![Screenshot 2023-07-18 145638](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/b047d189-409e-4f8b-ad25-246830a4c411)
+
+Finally, run the script by executing:
+./devops_challenge.sh
+![Screenshot 2023-07-18 145749](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/dc19465c-82c7-4c77-bcd9-e938da7db772)
+
+You should see the following output:
+![Screenshot 2023-07-18 145850](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/85d6d162-909d-4c66-a832-b0e919c1f6bc)
+
+
