@@ -1,4 +1,4 @@
-1. Explain in your own words and examples, what is Shell Scripting for DevOps.\
+1] Explain in your own words and examples, what is Shell Scripting for DevOps.\
     Shell scripting for DevOps enables the automation of manual processes, reducing human effort and minimizing the potential for errors. It allows for the creation       of scripts that can execute a series of commands, interact with system resources, handle file operations, and perform other operations required for Devops
     activities.
 Here are a few examples of how shell scripting can be used in DevOps:
