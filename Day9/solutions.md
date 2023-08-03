@@ -14,7 +14,13 @@ Open source community
 
 3. Can you explain the difference between Git and GitHub?
    Git:
+   Git is a distributed version control system (VCS). It is a tool used to track changes in source code or any set of files over time. 
+   Git operates locally on a developer's machine and allows them to create, modify, and track branches, commits, and changes to the codebase.
+   It is designed to be lightweight, fast, and highly flexible, making it suitable for both small projects and large, complex software repositories
 
-Git is a distributed version control system (VCS). It is a tool used to track changes in source code or any set of files over time. It was created by Linus Torvalds in 2005 and is widely used in the software development industry.
-Git operates locally on a developer's machine and allows them to create, modify, and track branches, commits, and changes to the codebase.
-It is designed to be lightweight, fast, and highly flexible, making it suitable for both small projects and large, complex software repositories
+   GitHub:
+
+   GitHub is a web-based platform that provides hosting for Git repositories. It offers a centralized place where developers and teams can store, collaborate, and     manage their Git repositories.
+   It adds collaboration features on top of Git, such as issue tracking, pull requests, code review, and project management tools.
+   Developers can push their local Git repositories to GitHub, making it accessible to others in the team and facilitating collaboration.
+   GitHub also provides a web-based interface for browsing code, exploring repositories, and managing projects, making it easier for non-technical stakeholders to     participate in the development process.
