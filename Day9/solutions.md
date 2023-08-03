@@ -1,5 +1,5 @@
-1. What is Git and why it is Important?
-Git is a distributed version control system (DVCS) that allows developers to manage and track changes to their source code and collaborate with others efficiently. It was created by Linus Torvalds in 2005 and has become one of the most widely used version control systems in the software development industry.
+1. What is Git and why it is Important?\n
+Git is a distributed version control system (DVCS) that allows developers to manage and track changes to their source code and collaborate with others efficiently. It was created by Linus Torvalds in 2005 and has become one of the most widely used version control systems in the software development industry.\n
 Here's why Git is important:
 Version control
 Collaboration
