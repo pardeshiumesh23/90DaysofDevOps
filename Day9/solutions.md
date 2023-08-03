@@ -1,12 +1,12 @@
 1. What is Git and why it is Important?\
 Git is a distributed version control system (DVCS) that allows developers to manage and track changes to their source code and collaborate with others efficiently. It was created by Linus Torvalds in 2005 and has become one of the most widely used version control systems in the software development industry.\
 
-Here's why Git is important:\
-Version control\
-Collaboration\
-Branching and merging\
-Code review and quality control\
-Open source community\
+   Here's why Git is important:\
+   Version control\
+   Collaboration\
+   Branching and merging\
+   Code review and quality control\
+   Open source community\
 
 3. What is difference Between Main Branch and Master Branch??
    The terms "Main Branch" and "Master Branch" are often used interchangeably to refer to the primary branch in a Git repository that contains the stable and production-ready codebase. However, there has been an ongoing discussion about the use of the term "Master" due to its historical association with slavery. In response to this, many organizations and projects have adopted the term "Main" as a more inclusive and neutral alternative.
