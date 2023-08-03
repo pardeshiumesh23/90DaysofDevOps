@@ -21,9 +21,9 @@ Git is a distributed version control system (DVCS) that allows developers to man
    Git:\
    Git is a distributed version control system (VCS). It is a tool used to track changes in source code or any set of files over time.\ 
    Git operates locally on a developer's machine and allows them to create, modify, and track branches, commits, and changes to the codebase.\
-   It is designed to be lightweight, fast, and highly flexible, making it suitable for both small projects and large, complex software repositories\
+   It is designed to be lightweight, fast, and highly flexible, making it suitable for both small projects and large, complex software repositories.
 
-   GitHub:\
+   GitHub:
 
    GitHub is a web-based platform that provides hosting for Git repositories. It offers a centralized place where developers and teams can store, collaborate, and     manage their Git repositories.\
    It adds collaboration features on top of Git, such as issue tracking, pull requests, code review, and project management tools.\
