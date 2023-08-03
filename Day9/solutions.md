@@ -8,7 +8,7 @@ Git is a distributed version control system (DVCS) that allows developers to man
    Code review and quality control\
    Open source community\
 
-3. What is difference Between Main Branch and Master Branch?\
+2. What is difference Between Main Branch and Master Branch?\
    The terms "Main Branch" and "Master Branch" are often used interchangeably to refer to the primary branch in a Git repository that contains the stable and    
    production-ready codebase. However, there has been an ongoing discussion about the use of the term "Master" due to its historical association with slavery.\
    In response to this, many organizations and projects have adopted the term "Main" as a more inclusive and neutral alternative.\
@@ -17,7 +17,7 @@ Git is a distributed version control system (DVCS) that allows developers to man
    If you're starting a new project or repository, you can choose either "Main" or "Master" as the default branch name.\
    However, as a good practice, it is recommended to adopt "Main" to promote inclusivity and respect in the development community.\
 
-5. Can you explain the difference between Git and GitHub?\
+3. Can you explain the difference between Git and GitHub?\
    Git:\
    Git is a distributed version control system (VCS). It is a tool used to track changes in source code or any set of files over time.\ 
    Git operates locally on a developer's machine and allows them to create, modify, and track branches, commits, and changes to the codebase.\
@@ -29,3 +29,10 @@ Git is a distributed version control system (DVCS) that allows developers to man
    It adds collaboration features on top of Git, such as issue tracking, pull requests, code review, and project management tools.\
    Developers can push their local Git repositories to GitHub, making it accessible to others in the team and facilitating collaboration.\
    GitHub also provides a web-based interface for browsing code, exploring repositories, and managing projects, making it easier for non-technical stakeholders to     participate in the development process.\
+
+4. How do you create a new repository on GitHub? \
+   Step 1: 
+   ![Screenshot 2023-08-03 152328](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/8285ba94-5de3-4413-bc38-a1f7c339c40f)
+   Steo 2:
+   ![Screenshot 2023-08-03 152423](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/0460e0d0-2519-4e83-8e94-2b84be9c00b1)
+
