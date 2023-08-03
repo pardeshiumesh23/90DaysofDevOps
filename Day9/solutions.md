@@ -50,6 +50,7 @@ Git is a distributed version control system (DVCS) that allows developers to man
 
    Link your local repository to the remote: In your local repository, use the following command to add a remote URL. Replace <remote-name> with a meaningful name     like "origin," and <remote-URL> with the URL of the remote repository.
    ![Screenshot 2023-08-03 153836](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/63d737d2-05ff-412f-8676-8509c477847f)
+   
 For example:
    ![Screenshot 2023-08-03 153903](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/66c2d14f-7508-47b8-acdb-12a35e1da002)
 
