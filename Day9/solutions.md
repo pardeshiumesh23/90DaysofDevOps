@@ -32,10 +32,18 @@ Git is a distributed version control system (DVCS) that allows developers to man
 
 4. How do you create a new repository on GitHub? \
    Step 1: Click on New Repository. \
-   ![Screenshot 2023-08-03 152602](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/0ef2c915-9a09-4ef3-af18-113bbc62f5f1)\
+   ![Screenshot 2023-08-03 152602](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/0ef2c915-9a09-4ef3-af18-113bbc62f5f1)
 
    step 2: Add the name of your new repository.
    ![Screenshot 2023-08-03 152423](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/454faf56-3cf4-4969-b5df-99233eb13794)
+
+5. What is difference between local & remote repository? How to connect local to remote?\
+   Local Repository:
+   A local repository is a Git repository that exists on your local machine (computer). It contains all the version history, branches, and files related to your    
+   project.\
+
+   Remote Repository:
+   A remote repository is a Git repository that exists on a remote server, typically hosted by a service like GitHub, GitLab, Bitbucket, or any other Git hosting      provider.\
 
 
 
