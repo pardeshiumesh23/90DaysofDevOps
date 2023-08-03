@@ -38,12 +38,20 @@ Git is a distributed version control system (DVCS) that allows developers to man
    ![Screenshot 2023-08-03 152423](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/454faf56-3cf4-4969-b5df-99233eb13794)
 
 5. What is difference between local & remote repository? How to connect local to remote?\
-   Local Repository:
+   Local Repository:\
    A local repository is a Git repository that exists on your local machine (computer). It contains all the version history, branches, and files related to your    
    project.\
 
-   Remote Repository:
+   Remote Repository:\
    A remote repository is a Git repository that exists on a remote server, typically hosted by a service like GitHub, GitLab, Bitbucket, or any other Git hosting      provider.\
 
+   To connect Local repository to Remote:\
+   Create a remote repository: First, create an empty repository on the Git hosting service of your choice (e.g., GitHub, GitLab). Follow the instructions provided    by the hosting service to create the repository.
+
+   Link your local repository to the remote: In your local repository, use the following command to add a remote URL. Replace <remote-name> with a meaningful name     like "origin," and <remote-URL> with the URL of the remote repository.
+   ![Screenshot 2023-08-03 153836](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/63d737d2-05ff-412f-8676-8509c477847f)
+
+   For example:
+   ![Screenshot 2023-08-03 153903](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/66c2d14f-7508-47b8-acdb-12a35e1da002)
 
 
