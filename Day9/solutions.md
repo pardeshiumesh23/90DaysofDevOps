@@ -31,10 +31,10 @@ Git is a distributed version control system (DVCS) that allows developers to man
    GitHub also provides a web-based interface for browsing code, exploring repositories, and managing projects, making it easier for non-technical stakeholders to     participate in the development process.\
 
 4. How do you create a new repository on GitHub? \
-   Step 1:
+   Step 1: Click on New Repository. 
    ![Screenshot 2023-08-03 152602](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/0ef2c915-9a09-4ef3-af18-113bbc62f5f1)\
 
-   step 2:
+   step 2: Add the name of your new repository.
    ![Screenshot 2023-08-03 152423](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/454faf56-3cf4-4969-b5df-99233eb13794)
 
 
