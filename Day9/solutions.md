@@ -54,8 +54,24 @@ Git is a distributed version control system (DVCS) that allows developers to man
 For example:
    ![Screenshot 2023-08-03 153903](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/66c2d14f-7508-47b8-acdb-12a35e1da002)
 
-Tasks:
-Task 1: 
+Tasks: \
+Task 1: Set your user name and email address, which will be associated with your commits. \
+git config --global user.name \
+git config --global user.email \
+
+Task 2:\
+Create a repository named "Devops" on GitHub. \
+![Screenshot 2023-08-03 154727](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/972ba4d7-a638-4e18-b5a0-e6ae9f2ca314)
+
+Connect your local repository to the repository on GitHub.\
+![Screenshot 2023-08-03 160249](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/be28bb14-5900-4ed2-821a-99fec862eaec)
+
+Create a new file in Devops/Git/Day-02.txt & add some content to it.\
+
+![Screenshot 2023-08-03 160642](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/fc1a0a4e-ac4e-4bee-8164-58df27f54637)
+
+Push your local commits to the repository on Github.\
+![Screenshot 2023-08-03 160952](https://github.com/pardeshiumesh23/90DaysofDevOps/assets/138001374/3604bffa-0ef1-48d6-8607-7a8d9ecc82fb)
 
 
 
